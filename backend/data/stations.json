@@ -1,0 +1,12 @@
+[
+  { "code": "NDLS", "name": "New Delhi" },
+  { "code": "BCT", "name": "Mumbai Central" },
+  { "code": "HWH", "name": "Howrah Junction" },
+  { "code": "MAS", "name": "Chennai Central" },
+  { "code": "SBC", "name": "Bengaluru City" },
+  { "code": "PUNE", "name": "Pune Junction" },
+  { "code": "HYB", "name": "Hyderabad Deccan" },
+  { "code": "LKO", "name": "Lucknow Charbagh" },
+  { "code": "JP", "name": "Jaipur Junction" },
+  { "code": "BPL", "name": "Bhopal Junction" }
+]

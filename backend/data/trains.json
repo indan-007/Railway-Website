@@ -1,0 +1,43 @@
+[
+  {
+    "id": "12001",
+    "name": "Shatabdi Express",
+    "from": "NDLS",
+    "to": "BPL",
+    "departure": "06:00",
+    "arrival": "14:05",
+    "duration": "8h 05m",
+    "classes": [
+      { "name": "AC Chair Car", "code": "CC", "fare": 1500, "seats_available": 100 },
+      { "name": "Executive Chair Car", "code": "EC", "fare": 3000, "seats_available": 20 }
+    ]
+  },
+  {
+    "id": "12951",
+    "name": "Mumbai Rajdhani",
+    "from": "NDLS",
+    "to": "BCT",
+    "departure": "16:55",
+    "arrival": "08:35",
+    "duration": "15h 40m",
+    "classes": [
+      { "name": "AC 3 Tier", "code": "3A", "fare": 2500, "seats_available": 50 },
+      { "name": "AC 2 Tier", "code": "2A", "fare": 3500, "seats_available": 30 },
+      { "name": "AC First Class", "code": "1A", "fare": 4500, "seats_available": 10 }
+    ]
+  },
+  {
+    "id": "22221",
+    "name": "Mumbai CSMT Rajdhani",
+    "from": "NDLS",
+    "to": "BCT",
+    "departure": "16:55",
+    "arrival": "08:15",
+    "duration": "15h 40m",
+    "classes": [
+      { "name": "AC 3 Tier", "code": "3A", "fare": 2800, "seats_available": 72 },
+      { "name": "AC 2 Tier", "code": "2A", "fare": 3800, "seats_available": 48 },
+      { "name": "AC First Class", "code": "1A", "fare": 4800, "seats_available": 24 }
+    ]
+  }
+]
